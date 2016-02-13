@@ -1,0 +1,30 @@
+----------------------------------------------------------------
+Fri Feb 12 18:48:36 CET 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-0152-d699-49cd-000014d36bb8 
+on database directory memory:/home/mfex/Programming/snippetlist/pertestdb18314snippets  with class loader sun.misc.Launcher$AppClassLoader@53d8d10a 
+Loaded from file:/home/mfex/.m2/repository/org/apache/derby/derby/10.8.1.2/derby-10.8.1.2.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_66-internal-b17
+user.dir=/home/mfex/Programming/snippetlist
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 12 18:48:38 CET 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance ba7e41af-0152-d699-49cd-000014d36bb8 
+on database directory memory:/home/mfex/Programming/snippetlist/pertestdb18372snippets  with class loader sun.misc.Launcher$AppClassLoader@53d8d10a 
+Loaded from file:/home/mfex/.m2/repository/org/apache/derby/derby/10.8.1.2/derby-10.8.1.2.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_66-internal-b17
+user.dir=/home/mfex/Programming/snippetlist
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 12 18:48:39 CET 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance 0132c353-0152-d699-49cd-000014d36bb8 
+on database directory memory:/home/mfex/Programming/snippetlist/pertestdb18373snippets  with class loader sun.misc.Launcher$AppClassLoader@53d8d10a 
+Loaded from file:/home/mfex/.m2/repository/org/apache/derby/derby/10.8.1.2/derby-10.8.1.2.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_66-internal-b17
+user.dir=/home/mfex/Programming/snippetlist
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
