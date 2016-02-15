@@ -1,14 +1,19 @@
 # snippetlist
 
-A Clojure library designed to ... well, that part is up to you.
+An example application using w3a and pedestal. More information on the blogpost: http://thegeez.net/2016/02/15/w3a_pedestal_walkthrough.html
 
-## Usage
+## About
 
-FIXME
+Written by:
+Gijs Stuurman / [@thegeez][twt] / [Blog][blog] / [GitHub][github]
+
+[twt]: http://twitter.com/thegeez
+[blog]: http://thegeez.net
+[github]: https://github.com/thegeez
 
 ## License
 
-Copyright © 2015 FIXME
+Copyright © 2016 Gijs Stuurman
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
